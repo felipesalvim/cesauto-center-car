@@ -1,0 +1,9 @@
+# Logo da Cesauto Center Car
+#
+# Coloque o arquivo da logo nesta pasta com um destes nomes:
+#   logo.webp  (preferencial)
+#   logo.png
+#   logo.svg
+#   logo.jpg
+#
+# O header e o footer detectam automaticamente.
